@@ -1,6 +1,8 @@
 # CFDRAT: 三分钟上手的流体仿真平台 
 [![Language](https://img.shields.io/badge/Language-MATLAB-orange.svg)]()
 
+[English Version](https://github.com/RatEmperior/CFDRAT) 
+
 <p align="center">
   <img src="assets/hamster_flow.gif" width="700">
   <img src="assets/cylinder.gif" width="700">
@@ -99,3 +101,4 @@ cfdrat()
 ## 作者
 
 -   **[RatEmperior](https://github.com/RatEmperior)**
+
